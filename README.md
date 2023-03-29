@@ -1,2 +1,2 @@
-# 2D-numerical-dispersion-of-the-electromagnetic-wave-velocity
+# 2D numerical dispersion of the electromagnetic wave velocity
 MATLAB
